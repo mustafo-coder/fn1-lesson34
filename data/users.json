@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Muhammadyahyo Karimov",
+    "email": "karimovmoff@gmail.com",
+    "password": "karimov123",
+    "job": "Gamer"
+  },
+  {
+    "email": "muslimjon@gmail.com",
+    "password": "muslimjon123",
+    "id": 1736509254427,
+    "job": null,
+    "name": null
+  },
+  {
+    "email": "abdurahmon@gmail.com",
+    "password": "abdurahmon123",
+    "id": 1736509271824,
+    "job": null,
+    "name": null
+  },
+  {
+    "email": "nurmurod@gmail.com",
+    "password": "nurmurod123",
+    "job": null,
+    "name": null,
+    "id": 1736509408192
+  },
+  {
+    "email": "ozodbek@gmail.com",
+    "password": "ozodbek123",
+    "job": "full-stack developer",
+    "name": null,
+    "id": 1736509431448
+  },
+  {
+    "email": "shoxrux@gmail.com",
+    "password": "shoxrux123",
+    "id": 1736510264073,
+    "job": null,
+    "name": null
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 123131235,
+    "title": "Frontend Developer",
+    "work_type": "remote",
+    "salary": 1500,
+    "currency": "USD",
+    "work_experience": 0,
+    "created_at": "Fri Jan 10 2025 17:06:26 GMT+0500 (Uzbekistan Standard Time)"
+  },
+  {
+    "id": 1736511520240,
+    "title": "Python разработчик",
+    "salary": "4500000",
+    "work_experience": 5,
+    "created_at": "2025-01-10T12:18:40.240Z"
+  },
+  {
+    "id": 1736511652413,
+    "title": "Python разработчик",
+    "salary": "4500000",
+    "currency": "UZS",
+    "work_experience": 5,
+    "work_type": "office",
+    "created_at": "2025-01-10T12:20:52.413Z"
+  }
+]
