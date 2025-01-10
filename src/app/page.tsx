@@ -15,7 +15,7 @@ const bull = (
   </Box>
 );
 export default async function OutlinedCard() {
-  const res = await fetch(`${process.env.NEXT_APP_BASE_URL || ""}/api/works`);
+  const res = await fetch(`https://fn1-lesson34.vercel.com/api/works`);
   const works = await res.json();
   return (
     <div className="grid grid-cols-3 gap-5 container p-5">
